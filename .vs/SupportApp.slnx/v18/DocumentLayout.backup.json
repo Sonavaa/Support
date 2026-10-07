@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\SupportApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|c:\\users\\hp\\desktop\\supportapp\\supportapp\\repositories\\implementations\\fileuploadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|solutionrelative:supportapp\\repositories\\implementations\\fileuploadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|c:\\users\\hp\\desktop\\supportapp\\supportapp\\repositories\\implementations\\supportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|solutionrelative:supportapp\\repositories\\implementations\\supportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|c:\\users\\hp\\desktop\\supportapp\\supportapp\\services\\implementations\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|solutionrelative:supportapp\\services\\implementations\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|c:\\users\\hp\\desktop\\supportapp\\supportapp\\services\\implementations\\supportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|solutionrelative:supportapp\\services\\implementations\\supportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|c:\\users\\hp\\desktop\\supportapp\\supportapp\\controllers\\supportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|solutionrelative:supportapp\\controllers\\supportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|c:\\users\\hp\\desktop\\supportapp\\supportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C9A4F83-50AA-4FCC-9134-726AEA8D143C}|SupportApp\\SupportApp.csproj|solutionrelative:supportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,84 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileUploadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Repositories\\Implementations\\FileUploadRepository.cs",
-              "RelativeDocumentMoniker": "SupportApp\\Repositories\\Implementations\\FileUploadRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Repositories\\Implementations\\FileUploadRepository.cs",
-              "RelativeToolTip": "SupportApp\\Repositories\\Implementations\\FileUploadRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:20:06.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Program.cs",
-              "RelativeDocumentMoniker": "SupportApp\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Program.cs",
-              "RelativeToolTip": "SupportApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T10:53:25.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SupportController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Controllers\\SupportController.cs",
-              "RelativeDocumentMoniker": "SupportApp\\Controllers\\SupportController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Controllers\\SupportController.cs",
-              "RelativeToolTip": "SupportApp\\Controllers\\SupportController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T10:46:18.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileUploadService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Services\\Implementations\\FileUploadService.cs",
-              "RelativeDocumentMoniker": "SupportApp\\Services\\Implementations\\FileUploadService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Services\\Implementations\\FileUploadService.cs",
-              "RelativeToolTip": "SupportApp\\Services\\Implementations\\FileUploadService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAApwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T10:42:36.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SupportService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Services\\Implementations\\SupportService.cs",
-              "RelativeDocumentMoniker": "SupportApp\\Services\\Implementations\\SupportService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Services\\Implementations\\SupportService.cs",
-              "RelativeToolTip": "SupportApp\\Services\\Implementations\\SupportService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAASwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T08:46:09.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SupportRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Repositories\\Implementations\\SupportRepository.cs",
-              "RelativeDocumentMoniker": "SupportApp\\Repositories\\Implementations\\SupportRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SupportApp\\SupportApp\\Repositories\\Implementations\\SupportRepository.cs",
-              "RelativeToolTip": "SupportApp\\Repositories\\Implementations\\SupportRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T08:12:50.089Z",
-              "EditorCaption": ""
             }
           ]
         }
